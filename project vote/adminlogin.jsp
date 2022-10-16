@@ -76,12 +76,12 @@
 
       <div class = "addr">   
         <h3> ADDRESS </h3>
-        <p> MIT Rd, Radha Nagar, Chromepet, Chennai, Tamil Nadu 600044 </p>
+        <p> Second and, third floor, MGC Park, Corner Pope John Paul II and, Mpilo Boulevard </p>
       </div>
 
       <div class = "ph">  
         <h3 >PHONE </h3>
-        <P> 044 2251 6002 </P>
+        <P> +266 2231 4991 </P>
       </div>
 
     </footer>
